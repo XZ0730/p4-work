@@ -1,0 +1,49 @@
+@font-face {
+    font-family: "iconfont";
+    /* Project id 3667426 */
+    src: url('//at.alicdn.com/t/c/font_3667426_a4qgjmeveb9.woff2?t=1665764805206') format('woff2'), url('//at.alicdn.com/t/c/font_3667426_a4qgjmeveb9.woff?t=1665764805206') format('woff'), url('//at.alicdn.com/t/c/font_3667426_a4qgjmeveb9.ttf?t=1665764805206') format('truetype');
+}
+
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-zhifubaozhifu:before {
+    content: "\e605";
+}
+
+.icon-logo-wechat:before {
+    content: "\e619";
+}
+
+.icon-tianjia:before {
+    content: "\e66c";
+}
+
+.icon-liebiaomoshi:before {
+    content: "\e600";
+}
+
+.icon-weibiaoti7:before {
+    content: "\e611";
+}
+
+.icon-shanchulajixiang:before {
+    content: "\e710";
+}
+
+.icon-xiazai-wenjianxiazai-15:before {
+    content: "\e856";
+}
+
+.icon-logo-weibo:before {
+    content: "\e618";
+}
+
+.icon-QQ-circle-fill:before {
+    content: "\e887";
+}
